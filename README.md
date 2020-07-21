@@ -10,6 +10,7 @@
 <a href="https://www.facebook.com/anubhav.dutta.792"><img src="https://img.shields.io/twitter/url?color=blue&label=Facebook&logo=Facebook&logoColor=Blue&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Fanubhav.dutta.792" alt="Facebook-url"></a></br>
 <a href="https://twitter.com/AnubhavDutta6"><img src="https://img.shields.io/twitter/url?label=twitter&logo=twitter&logoColor=9cf&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FAnubhavDutta6" alt="Twitter-url"></a></br>
 <a href="https://github.com/anubhav666"><img src="https://img.shields.io/twitter/url?color=lightblue&label=github&logo=github&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Fanubhav666" alt="Github-url"></a></br>
+<a href="https://github.com/anubhav666"><img src="https://img.shields.io/twitter/url?color=lightblue&label=LinkedIn&logo=LinkedIn&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanubhav-dutta-408368191%2F" alt="LinkedIn-Url"></a></br>
 
 Here are some ideas to get you started:
 
