@@ -1,5 +1,4 @@
 ## Hi I'm Anubhav here! 👋
-![My-Pic](https://user-images.githubusercontent.com/56502015/88017376-2a3b5400-cb43-11ea-8d61-3c123c1101e8.jpeg)
 <p align="center">I am a 2nd Year Student at Kalyani Government Engineering College pursuing B.Tech in ECE, having great enthusiasm when it comes to Electronics and Embedded System.I've worked on a few projects in Robotics and look forward to a world using technologies of Industry 4.0!</p>
 <br/>
 <!--
