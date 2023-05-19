@@ -1,5 +1,5 @@
 ## Hi I'm Anubhav here! 👋
-<div width=500px><kbd><img align=left src="https://github.com/anubhav666/anubhav666/assets/56502015/cab37978-c90c-49b7-b07b-3ccfebbb2959" width=560px height=287px><img align=right src="https://user-images.githubusercontent.com/56502015/181429562-3d830733-7d6a-4fd2-b0b9-bb00ed9d6845.png" width=40%></kbd></div>
+<kbd><img align=left src="https://github.com/anubhav666/anubhav666/assets/56502015/cab37978-c90c-49b7-b07b-3ccfebbb2959" width=59%><img align=right src="https://user-images.githubusercontent.com/56502015/181429562-3d830733-7d6a-4fd2-b0b9-bb00ed9d6845.png" width=35%></kbd>
 
 <p align="center">I am a Student at Kalyani Government Engineering College pursuing B.Tech in ECE, having great enthusiasm when it comes to Electronics and Embedded System.I've worked on a few projects in Robotics and look forward to a world using technologies of Industry 4.0!</p>
 <br/>
