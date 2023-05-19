@@ -5,10 +5,12 @@
 <!--
 **anubhav666/anubhav666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav666&layout=pie&theme=transparent&show_icons=true"><br>
 
 ### Find me @:
-<a href="https://www.facebook.com/anubhav.dutta.792"><img src="https://img.shields.io/twitter/url?color=blue&label=Facebook&logo=Facebook&logoColor=Blue&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Fanubhav.dutta.792" alt="Facebook-url"></a></br>
-<a href="https://www.linkedin.com/in/anubhav-dutta-408368191/"><img src="https://img.shields.io/twitter/url?color=lightblue&label=LinkedIn&logo=LinkedIn&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanubhav-dutta-408368191%2F" alt="LinkedIn-Url"></a></br>
+<a href="https://www.facebook.com/anubhav.dutta.792"><img src="https://img.shields.io/badge/Facebook--white?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=blue" alt="Facebook-url"></a></br>
+<a href="https://www.linkedin.com/in/anubhav-dutta-408368191/"><img src="https://img.shields.io/badge/LinkedIn--lightblue?style=for-the-badge&logo=LinkedIn&logoColor=lightblue&labelColor=grey" alt="LinkedIn-url"></a></br>
+<a href="https://www.youtube.com/@framework5880/"><img src="https://img.shields.io/badge/Youtube--red?style=for-the-badge&logo=Youtube&logoColor=red&labelColor=lightgrey" alt="Youtube-url"></a></br>
 
 Here are some ideas to get you started:
 
