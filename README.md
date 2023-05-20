@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Open-CV/Python
 - 💬 Ask me about Embedded Systems
 <br>
-<img src="https://github.com/anubhav666/anubhav666/assets/56502015/baf250b0-4c82-4723-a3e5-7913b44819b1">
+<img src="https://github.com/anubhav666/anubhav666/assets/56502015/baf250b0-4c82-4723-a3e5-7913b44819b1" align="left">
+<br>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=ns7m4to32l0kar1go2kfwv4hr&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)" align="right">
 
 
