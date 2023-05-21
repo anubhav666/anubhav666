@@ -5,9 +5,10 @@ I am a Student at Kalyani Government Engineering College pursuing B.Tech in ECE,
 <!--
 **anubhav666/anubhav666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav666&layout=pie&theme=transparent&show_icons=true"><br>
+### Skills:
+<img src="https://skillicons.dev/icons?i=java,arduino,raspberrypi,html,css,javascript,gcp,flask,nodejs,mongodb,postman,git,gitlab,python,figma&theme=dark&perline=5"><br>
 
-### Find me @:
+### Find me at:
 <a href="https://www.facebook.com/anubhav.dutta.792"><img src="https://img.shields.io/badge/Facebook--white?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=blue" alt="Facebook-url"></a></br>
 <a href="https://www.linkedin.com/in/anubhav-dutta-408368191/"><img src="https://img.shields.io/badge/LinkedIn--lightblue?style=for-the-badge&logo=LinkedIn&logoColor=lightblue&labelColor=grey" alt="LinkedIn-url"></a></br>
 <a href="https://www.youtube.com/@framework5880/"><img src="https://img.shields.io/badge/Youtube--red?style=for-the-badge&logo=Youtube&logoColor=red&labelColor=lightgrey" alt="Youtube-url"></a></br>
