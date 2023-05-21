@@ -6,7 +6,7 @@ I am a Student at Kalyani Government Engineering College pursuing B.Tech in ECE,
 **anubhav666/anubhav666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### Skills:
-<img src="https://skillicons.dev/icons?i=java,arduino,raspberrypi,html,css,javascript,gcp,flask,nodejs,mongodb,postman,git,gitlab,python,figma&theme=dark&perline=5"><br>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,html,css,javascript,java,c,cpp,python,gcp,gitlab,flask,mongodb,nodejs,postman,git,figma&theme=dark&perline=5"><br>
 
 ### Find me at:
 <a href="https://www.facebook.com/anubhav.dutta.792"><img src="https://img.shields.io/badge/Facebook--white?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=blue" alt="Facebook-url"></a></br>
