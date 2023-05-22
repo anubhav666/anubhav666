@@ -23,5 +23,7 @@ Here are some ideas to get you started:
 <br>
 <img src="https://github.com/anubhav666/anubhav666/assets/56502015/baf250b0-4c82-4723-a3e5-7913b44819b1" align=left>
 <br>
-<img src="https://readme-jokes.vercel.app/api" alt="README Jokes" align=left width=40%>
+<img src="https://readme-jokes.vercel.app/api" alt="README Jokes" align=left>
+<br>
+<br>
 
