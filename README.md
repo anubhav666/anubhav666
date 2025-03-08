@@ -18,12 +18,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on projects on IoT 
 - 🌱 I’m currently learning Open-CV/Python
 - 💬 Ask me about Embedded Systems
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=ns7m4to32l0kar1go2kfwv4hr&cover_image=true&theme=default&show_offline=false&background_color=36454F&interchange=false" align=right>
+<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ns7m4to32l0kar1go2kfwv4hr&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ns7m4to32l0kar1go2kfwv4hr&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=4eb167&bar_color_cover=false" align="right"></a>
 <br>
 <img src="https://github.com/anubhav666/anubhav666/assets/56502015/baf250b0-4c82-4723-a3e5-7913b44819b1" align=left>
 <br>
 <img src="https://readme-jokes.vercel.app/api" alt="README Jokes" align=left>
-<br>
-<br>
+
 
